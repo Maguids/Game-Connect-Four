@@ -7,5 +7,5 @@ Version of the game "Connect Four" in terminal with search algorithms (A* and MC
 
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/ac54c2ef-523a-4c62-b197-e47d8204e26a)">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/ac54c2ef-523a-4c62-b197-e47d8204e26a">
 </p>
